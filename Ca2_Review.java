@@ -1,4 +1,4 @@
-public class Ca2_Review1 {
+public class Ca2_Review {
   public static void main(String[] args) {
     // Java uses static typing which means that you must declare the type of a variable when you first define it.
     System.out.println("Java uses static typing.");

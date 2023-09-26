@@ -1,4 +1,4 @@
-public class CaReview1 {
+public class Ca1_Review {
   public static void main(String[] args) {
     System.out.println("Java is a class-based language.");
     // Java programs have at least one class.

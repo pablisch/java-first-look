@@ -7,19 +7,19 @@ This repo is a recording of my first learning in Java. Aside from a couple of ve
 ### HideAndSeek.java
 The difference between println() and print().
 
-### Ca1.java
+### Ca1_1_.java
 Basically Hello World.
 
-### Ca2Comment.java
+### Ca1_2_Comment.java
 Single line and multi-line comments.
 
-### Ca3LanguageFacts.java
+### Ca1_3_LanguageFacts.java
 Use of whitespace for readability and semi-colons to end statements.
 
-### Ca4Compiling.java
+### Ca1_4_Compiling.java
 Compiling and running a Java program from the command line.
 
-### CaReview1.java
+### Ca1_Review.java
 A review of the first four exercises.
 Includes: The basic Java syntax, including whitespace, comments, and semicolons plus manual compilation and running a Java program from the command line.
 
@@ -40,4 +40,26 @@ Declaring and initializing char variables.
 
 ### Ca2_6_StringVariables.java
 Declaring and initializing String variables.
+
+### Ca2_Review.java
+A review of the basic variable type exercises.
+Basically, what each variable type is used for.
+
+### Ca3_1_ManipulateVariables.java
+Addition and subtraction when decalring and initializing variables.
+
+### Ca3_2_ManipulateVariables.java
+Addition and subtraction using declared variables.
+
+### Ca3_3_MultiplyAndDivide.java
+Multiplication and division using declared variables.
+
+### Ca3_4_Modulo.java
+Modulo using declared variables.
+
+### Ca3_5_CompoundAssignmentOperators.java
+Compound assignment operators using declared variables, e.g. +=, -=, *=, /=, %=.
+
+### Ca3_6_OperatorOrderOfPrecedence.java
+Operator order of precedence using declared variables.
 
