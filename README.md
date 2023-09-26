@@ -19,3 +19,25 @@ Use of whitespace for readability and semi-colons to end statements.
 ### Ca4Compiling.java
 Compiling and running a Java program from the command line.
 
+### CaReview1.java
+A review of the first four exercises.
+Includes: The basic Java syntax, including whitespace, comments, and semicolons plus manual compilation and running a Java program from the command line.
+
+### Ca2_1_Variables.java
+Declaring and initializing variables.
+
+### Ca2_2_IntVariables.java
+Declaring and initializing int variables.
+
+### Ca2_3_DoubleVariables.java
+Declaring and initializing double variables.
+
+### Ca2_4_BooleanVariables.java
+Declaring and initializing boolean variables.
+
+### Ca2_5_CharVariables.java
+Declaring and initializing char variables.
+
+### Ca2_6_StringVariables.java
+Declaring and initializing String variables.
+
