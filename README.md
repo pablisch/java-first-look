@@ -63,3 +63,14 @@ Compound assignment operators using declared variables, e.g. +=, -=, *=, /=, %=.
 ### Ca3_6_OperatorOrderOfPrecedence.java
 Operator order of precedence using declared variables.
 
+### Ca3_7_EqualToNotEqualTo.java
+Equality and inequality using declared variables. == and !=.
+
+### Ca3_8_GreaterThanLessThan.java
+Greater than and less than using declared variables. > and <.
+
+### Ca3_9_GreaterThanLessThanOrEqualTo.java
+Greater than or equal to and less than or equal to using declared variables. >= and <=.
+
+### Ca3_10_StringConcatenation.java
+String concatenation using + and declared variables.
