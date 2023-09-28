@@ -2,6 +2,25 @@
 
 This repo is a recording of my first learning in Java. Aside from a couple of versions of the Hello World program in search of a decent learning platform, the exercises here are taken from the [Code Academy Learn Java](https://www.codecademy.com/enrolled/courses/learn-java) course.
 
+## Running the exercise files in this repo
+
+Clone the repo to your local machine
+From the root directory of the repo, run the following command to compile the exercise file you want to run:
+```
+javac <file_path/exercise_file_name>.java
+```
+Then run the following command to run the compiled file:
+```
+java <file_path/exercise_file_name>
+```
+
+Example:
+To run the Store1.java file in the Ca5_Methods directory, run the following commands:
+```
+javac Ca5_Methods/Store1.java
+java Ca5_Methods/Store1
+```
+
 ## Files
 
 ### HideAndSeek.java
