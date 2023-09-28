@@ -74,3 +74,14 @@ Greater than or equal to and less than or equal to using declared variables. >= 
 
 ### Ca3_10_StringConcatenation.java
 String concatenation using + and declared variables.
+
+### Ca3_11_FinalKeyword.java
+The final keyword to declare a constant variable.
+
+### Ca3_Review.java
+A review of the basic variable manipulation exercises.
+Includes: Addition, subtraction, multiplication, division, modulo, compound assignment operators, operator order of precedence, equality and inequality, greater than and less than, greater than or equal to and less than or equal to, string concatenation, and the final keyword.
+
+### Ca3_Review_exercise.java
+A review of the basic variable manipulation exercises.
+
