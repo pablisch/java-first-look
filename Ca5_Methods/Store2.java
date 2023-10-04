@@ -23,3 +23,5 @@ public class Store2 {
     lemonadeStand.advertise();
   }
 }
+
+// Calling a custom method from the main method.

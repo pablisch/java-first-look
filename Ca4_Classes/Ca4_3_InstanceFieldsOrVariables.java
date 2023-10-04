@@ -22,5 +22,5 @@ public class Ca4_3_InstanceFieldsOrVariables {
   }
 }
 
-// This exercise introdues the concept of instance fields as on line
+// This exercise introdues the concept of instance fields as on line 7
 
